@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <Sidebar></Sidebar>
+      <SideBar></SideBar>
       <Main />
       <Footer />
     </>

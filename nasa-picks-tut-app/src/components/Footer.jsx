@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div>Footer</div>
+    <footer>
+        <div>
+            <h2>little mermaid picture</h2>
+            <h1>APOD PROJECT</h1>
+        </div>
+        <button><i className="fa-solid fa-circle-info"></i></button>
+    </footer>
   )
 }
